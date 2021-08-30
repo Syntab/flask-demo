@@ -1,2 +1,3 @@
-# flask-demo
-A demo of python flask.
+# flask
+
+this repo is a demo of the 'flask' python module
